@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 8px;
+  gap: 16px;
+  margin: 0 auto;
+  margin-top: 20px;
+  list-style: none;
+}
